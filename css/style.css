@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(83, 77, 77);
+    
+}
+
+.topTitle {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    
+    
+}
+.listTitle {
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+}
+.addButton {
+    text-align: center;
+}
+.priorityBtn {
+    height: 30px;
+}
+.modalMargin {
+    margin-top: 5px;
+}
+.checkListName {
+
+    font-size: 10px;
+    background-color: rgb(208, 241, 89);
+}
+.button{
+    background-color: crimson;
+
+}
+.editBtn {
+    background-color: rgb(180, 180, 192);
+}
